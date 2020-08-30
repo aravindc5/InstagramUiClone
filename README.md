@@ -1,6 +1,8 @@
-# instagramuiclone
+# Instagram UI Clone using Flutter
 
-A new Flutter application.
+## Output:
+
+![InstagramUIClone](https://user-images.githubusercontent.com/30715919/91654202-8ab79c80-eac4-11ea-959f-7e7330d8a621.png)
 
 ## Getting Started
 
